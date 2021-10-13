@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FineArts.Dal\FineArts.Dal.csproj" />
+    <ProjectReference Include="..\FineArts.Entities\FineArts.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
