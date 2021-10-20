@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FineArts.Dal", "FineArts.Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FineArts.Migration", "FineArts.Migration\FineArts.Migration.csproj", "{D252E5E4-BF1C-4A52-AAF2-D3D373B364E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FineArts.Bll", "FineArts.Bll\FineArts.Bll.csproj", "{6F40BB22-346F-429F-B6A3-0728E799727C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FineArts.Bll", "FineArts.Bll\FineArts.Bll.csproj", "{6F40BB22-346F-429F-B6A3-0728E799727C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FineArts.Wpf", "FineArts.Wpf\FineArts.Wpf.csproj", "{118EC38A-766F-480D-8654-5C993B103540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6F40BB22-346F-429F-B6A3-0728E799727C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F40BB22-346F-429F-B6A3-0728E799727C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F40BB22-346F-429F-B6A3-0728E799727C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118EC38A-766F-480D-8654-5C993B103540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118EC38A-766F-480D-8654-5C993B103540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118EC38A-766F-480D-8654-5C993B103540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118EC38A-766F-480D-8654-5C993B103540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
